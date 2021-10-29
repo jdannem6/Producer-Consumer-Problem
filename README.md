@@ -12,12 +12,13 @@ This project was tested with a system consisting of a gcc compiler, gdb debugger
 ### Installation
 1. Clone the Repository
 
-git clone https://github.com/jdannem6/Porducer-Consumer_Problem.git
+![](RepositoryCloning.png)
 
-2. Compile the two programs: consumer.c and producer.c
+2. Compile the two programs: consumer.c and producer.c and run their object fiels together
 
-3. Run the output files together as follows
-4. Terminate the program with Ctrl + c
+![](Commands.png)
+
+3. Terminate the program with Ctrl + c
 
 ## Example Output
 ![](ExampleOutput.png)
