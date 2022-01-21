@@ -14,7 +14,7 @@ This project was tested with a system consisting of a gcc compiler, gdb debugger
 
 ![](RepositoryCloning.png)
 
-2. Compile the two programs: consumer.c and producer.c and run their object fiels together
+2. Compile the two programs: consumer.c and producer.c and run their object files together
 
 ![](Commands.png)
 
